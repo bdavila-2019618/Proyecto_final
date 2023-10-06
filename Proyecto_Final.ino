@@ -1,3 +1,13 @@
+/*
+Fundación Kinal
+Centro Educativo Técnico Laboral Kinal 
+Taller de Electrónica 5to 
+Byron Renato Dávila Santiago 
+2019618
+Proyecto Final 
+*/
+
+
 #include <SoftwareSerial.h>
 
 const int Pin_Analogico = A0;
