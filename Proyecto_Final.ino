@@ -1,8 +1,8 @@
 #include <SoftwareSerial.h>
 
 const int Pin_Analogico = A0;
-const float ResConocida = 1200.0;
-float sensibilidad = 0.175; 
+const float ResConocida = 1000.0;
+float sensibilidad = 0.185; 
 SoftwareSerial Bluetooth_Davila(7, 6);
 
 unsigned long TimePrevio = 0;
